@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Selamat Datang Di aplikasi react ini
+          Welcome to React App
         </p>
       </header>
     </div>
